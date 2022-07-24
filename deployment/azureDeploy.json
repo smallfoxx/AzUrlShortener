@@ -15,7 +15,7 @@
                "none",
                "adminBlazorWebsite"
            ],
-           "defaultValue": "adminBlazorWebsite",
+           "defaultValue": "none",
            "metadata": {
                 "description": "Select the frontend that will be deploy. Select 'none', if you don't want any. Frontend available: adminBlazorWebsite, none. "
             }

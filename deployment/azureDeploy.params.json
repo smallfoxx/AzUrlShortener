@@ -15,7 +15,7 @@
             "value": "https://www.nalinu.pink"
         },
         "frontend": {
-            "value": "adminBlazorWebsite"
+            "value": "none"
         },
         "frontend-AdminEMail": {
             "value": "naliadmin@smallfoxx.com"
