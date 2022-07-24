@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "baseName": {
-            "value": "AzUrlShortTools"
+            "value": "NaliShorts"
         },
         "OwnerName": {
-            "value": "Frank"
+            "value": "Nalinu"
         },
         "GitHubBranch": {
-            "value": "feature/deploy-it-all"
+            "value": "main"
         },
         "defaultRedirectUrl": {
-            "value": "https://azure.com"
+            "value": "https://www.nalinu.pink"
         },
         "frontend": {
             "value": "adminBlazorWebsite"
         },
         "frontend-AdminEMail": {
-            "value": "test@test.com"
+            "value": "naliadmin@smallfoxx.com"
         },
         "frontend-AdminPassword": {
-            "value": "Supernewt42!"
+            "value": "Password1234!"
         }
     }
 }
